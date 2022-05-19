@@ -63,7 +63,7 @@ public class Main {
             System.out.println(ra.readInt());
 
         } catch (Exception e) {
-
+            System.out.println("Error");
         }
     }
 
